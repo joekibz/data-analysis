@@ -1,2 +1,5 @@
+#Author
+Joe Kibera
+
 # data-analysis
-moringa data analysis 101
+Github practise lab. Uploading a project - moringa data analysis 101
